@@ -1,0 +1,1 @@
+!ERROR - Connection (sqlSelectRS). Msg: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) - SQL STATEMENT: Select * FROM `safr_cli_ser_select` USE INDEX(PRIMARY) WHERE `cli_ser_rn`='0' AND `seq`='' ORDER By `seq`
